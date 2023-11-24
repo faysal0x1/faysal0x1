@@ -112,10 +112,13 @@ Laravel Developer , A Web Artisan
 <p align="left"> 
 <img src="./profile-3d-contrib/profile-night-view.svg">
 </p>
+<p align="left"> 
+<img src="./wrapped_faysal0x1.png">
+</p>
 
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=faysal0x1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<!-- ## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=faysal0x1&theme=radical&no-frame=false&no-bg=false&margin-w=4) -->
 
 
 
