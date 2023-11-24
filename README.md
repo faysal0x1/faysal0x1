@@ -163,4 +163,15 @@ Laravel Developer , A Web Artisan
 
 
 <!--START_SECTION:waka-->
+
+```rust
+From: 18 September 2021 - To: 23 November 2023
+
+Total Time: 400 hrs 56 mins
+
+PHP              159 hrs 44 mins >>>>>>>>-----------------   30.71 %
+Blade Template   141 hrs 11 mins >>>>>>>------------------   27.14 %
+Other            119 hrs 16 mins >>>>>>-------------------   22.93 %
+```
+
 <!--END_SECTION:waka-->
