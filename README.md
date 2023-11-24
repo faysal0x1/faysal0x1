@@ -17,11 +17,17 @@ Laravel Developer , A Web Artisan
 </p>
 
 
-<a margin="2px" href="https://www.github.com/faysal0x1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/faysal0x1?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
-<a href="https://www.x.com/faysal0x1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/faysal0x1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
-/></a>
+<div  style="display:flex;  margin:2px;">
+<div style="display:flex;  margin-right:5px;"><a margin="2px" href="https://www.github.com/faysal0x1" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/faysal0x1?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" />
+</a></div>
+<div><a href="https://www.twitter.com/faysal0x1" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/twitter/follow/faysal0x1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a" />
+</a></div>
+
+</div>
+
+
 <br>
 <br>
 <br>
