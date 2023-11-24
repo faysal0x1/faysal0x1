@@ -7,19 +7,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Laravel Developer , A Web Artisan
 ---------------------------------
+<p style="font-size:15px;font-weight:400;"> 
+<img align="right" width="350" src="./programmer.gif" alt="Coding gif" />
+🌍  I'm based in Bangladesh<br>
+ 🖥️  See my portfolio at [here](http://faysalswe.com)<br>
+ ✉️  You can contact me at [faysalk461@gmail.com](mailto:faysalk461@gmail.com)<br>
+ 🧠  I'm learning Nuxt Js<br>
+ 🤝  I'm open to collaborating on Laravel related projects<br>
+</p>
 
-* 🌍  I'm based in Bangladesh
-* 🖥️  See my portfolio at [here](http://faysalswe.com)
-* ✉️  You can contact me at [faysalk461@gmail.com](mailto:faysalk461@gmail.com)
-* 🧠  I'm learning Nuxt Js
-* 🤝  I'm open to collaborating on Laravel related projects
 
-<a href="https://www.github.com/faysal0x1" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/faysal0x1?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a><a href="https://www.x.com/faysal0x1" target="_blank" rel="noreferrer"><img
+<a margin="2px" href="https://www.github.com/faysal0x1" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/faysal0x1?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" /></a>
+<a href="https://www.x.com/faysal0x1" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/faysal0x1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a"
 /></a>
+<br>
+<br>
+<br>
+<br>
+<br>
 
-### Skills
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">
