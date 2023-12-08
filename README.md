@@ -264,3 +264,7 @@ Last Updated on 06/12/2023 01:24:27 UTC
  Last Updated on 06/12/2023 14:33:45 UTC
 <!--END_SECTION:waka-->
 >>>>>>> 14419dc4dc296453523dda5d17c5db25986f14c1
+
+
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=faysal0x1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
