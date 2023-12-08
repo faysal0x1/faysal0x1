@@ -234,3 +234,5 @@ Vue                      2 repos             █░░░░░░░░░░�
  Last Updated on 08/12/2023 01:20:41 UTC
 <!--END_SECTION:waka-->
 >>>>>>> 14419dc4dc296453523dda5d17c5db25986f14c1
+## 🏆GitHub Trophies
+![](https://github-trophies.vercel.app/?username=faysal0x1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
