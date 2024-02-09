@@ -5,21 +5,30 @@
 ## Laravel Developer , A Web Artisan
 
 <p style="font-size:15px;font-weight:400;"> 
-<img align="right" width="350" src="./programmer.gif" alt="Coding gif" />
-🌍  I'm based in Bangladesh<br>
- 🖥️  See my portfolio at [here](http://faysalswe.com)<br>
- ✉️  You can contact me at [faysalk461@gmail.com](mailto:faysalk461@gmail.com)<br>
- 🧠  I'm learning Nuxt Js<br>
- 🤝  I'm open to collaborating on Laravel related projects<br>
+<!-- <img align="right" width="350" src="./programmer.gif" alt="Coding gif" /> -->
+<a href="https://app.daily.dev/faysal0x1"><img align="right" src="https://api.daily.dev/devcards/b1a3edf0d3204b9d81f2f502b231521f.png?r=0vg" width="300" height="350" alt="Ahmed Faysal's Dev Card"/></a>
+
+<div style="margin-top:5rem;">
+<p>🌍  I'm based in Bangladesh</p>
+ <p>🖥️  See my portfolio at [here](http://faysalswe.com)</p>
+ <p>✉️  You can contact me at <a mailto:faysalk461@gmail.com>
+<b> faysalk461@gmail.com</b> </a> ()
+ </p>
+<p> 🧠  I'm learning Nuxt Js</p>
+<p> 🤝  I'm open to collaborating on Laravel related projects</p>
 </p>
+</div>
 
 <div  style="display:flex;  margin:2px;">
 <div style="display:flex;  margin-right:5px;"><a margin="2px" href="https://www.github.com/faysal0x1" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/faysal0x1?logo=github&style=for-the-badge&color=0891b2&labelColor=0f172a" />
 </a></div>
-<div><a href="https://www.twitter.com/faysal0x1" target="_blank" rel="noreferrer">
+<div>
+<a href="https://www.twitter.com/faysal0x1" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/twitter/follow/faysal0x1?logo=twitter&style=for-the-badge&color=0891b2&labelColor=0f172a" />
-</a></div>
+</a>
+
+</div>
 
 </div>
 
@@ -91,8 +100,7 @@
 <a href="https://instagram.com/faysal0x1" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
-</div>  
-
+</div>
 
 <br/>
 
@@ -140,7 +148,6 @@
 
 <div align="center">
 
-
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faysal0x1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://streak-stats.demolab.com?user=faysal0x1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
@@ -148,98 +155,102 @@
 ###
 
 <!--START_SECTION:waka-->
+
 ![Code Time](http://img.shields.io/badge/Code%20Time-574%20hrs%2041%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-28-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.1%20million%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**🐱 My GitHub Data**
 
-> 📦 ? Used in GitHub's Storage 
- > 
+> 📦 ? Used in GitHub's Storage
+>
 > 🏆 366 Contributions in the Year 2023
- > 
+>
 > 💼 Opted to Hire
- > 
-> 📜 36 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm a Night 🦉** 
+>
+> 📜 36 Public Repositories
+>
+> 🔑 0 Private Repositories
+>
+> **I'm a Night 🦉**
 
 ```text
-🌞 Morning                57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 % 
-🌆 Daytime                127 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 % 
-🌃 Evening                215 commits         █████████░░░░░░░░░░░░░░░░   36.94 % 
-🌙 Night                  183 commits         ████████░░░░░░░░░░░░░░░░░   31.44 % 
+🌞 Morning                57 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.79 %
+🌆 Daytime                127 commits         █████░░░░░░░░░░░░░░░░░░░░   21.82 %
+🌃 Evening                215 commits         █████████░░░░░░░░░░░░░░░░   36.94 %
+🌙 Night                  183 commits         ████████░░░░░░░░░░░░░░░░░   31.44 %
 ```
-📅 **I'm Most Productive on Wednesday** 
+
+📅 **I'm Most Productive on Wednesday**
 
 ```text
-Monday                   119 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 % 
-Tuesday                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Wednesday                122 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 % 
-Thursday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
-Friday                   113 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
-Saturday                 43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Sunday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Monday                   119 commits         █████░░░░░░░░░░░░░░░░░░░░   20.45 %
+Tuesday                  66 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.34 %
+Wednesday                122 commits         █████░░░░░░░░░░░░░░░░░░░░   20.96 %
+Thursday                 69 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.86 %
+Friday                   113 commits         █████░░░░░░░░░░░░░░░░░░░░   19.42 %
+Saturday                 43 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 %
+Sunday                   50 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 %
 ```
 
-
-📊 **This Week I Spent My Time On** 
+📊 **This Week I Spent My Time On**
 
 ```text
 🕑︎ Time Zone: Asia/Dhaka
 
-💬 Programming Languages: 
-Blade Template           6 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.81 % 
-PHP                      5 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
-Vue.js                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 % 
-Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-SQL                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+💬 Programming Languages:
+Blade Template           6 hrs 58 mins       ████████████░░░░░░░░░░░░░   48.81 %
+PHP                      5 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   37.14 %
+Vue.js                   1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.51 %
+Other                    16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+SQL                      14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 %
 
-🔥 Editors: 
-VS Code                  14 hrs 18 mins      █████████████████████████   100.00 % 
+🔥 Editors:
+VS Code                  14 hrs 18 mins      █████████████████████████   100.00 %
 
-🐱‍💻 Projects: 
-PortfolioSite            8 hrs 23 mins       ███████████████░░░░░░░░░░   58.65 % 
-LeetCode                 3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-hiya_deployement_version 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
-Weather-App              1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-Riyotex                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+🐱‍💻 Projects:
+PortfolioSite            8 hrs 23 mins       ███████████████░░░░░░░░░░   58.65 %
+LeetCode                 3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.65 %
+hiya_deployement_version 1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 %
+Weather-App              1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Riyotex                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 %
 
-💻 Operating System: 
-Windows                  14 hrs 18 mins      █████████████████████████   100.00 % 
+💻 Operating System:
+Windows                  14 hrs 18 mins      █████████████████████████   100.00 %
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in JavaScript**
 
 ```text
-JavaScript               21 repos            ████████░░░░░░░░░░░░░░░░░   32.31 % 
-CSS                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
-Blade                    7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-PHP                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 % 
-Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+JavaScript               21 repos            ████████░░░░░░░░░░░░░░░░░   32.31 %
+CSS                      10 repos            ████░░░░░░░░░░░░░░░░░░░░░   15.38 %
+Blade                    7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+PHP                      7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.77 %
+Vue                      2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
 ```
-
-
 
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/faysal0x1/faysal0x1/main/assets/bar_graph.png)
 
+Last Updated on 18/12/2023 01:11:12 UTC
 
- Last Updated on 18/12/2023 01:11:12 UTC
 <!--END_SECTION:waka-->
-<<<<<<< HEAD
-=======
- Last Updated on 06/12/2023 14:33:45 UTC
+
+# <<<<<<< HEAD
+
+Last Updated on 06/12/2023 14:33:45 UTC
+
 <!--END_SECTION:waka-->
->>>>>>> 14419dc4dc296453523dda5d17c5db25986f14c1
+
+> > > > > > > 14419dc4dc296453523dda5d17c5db25986f14c1
 
 =======
->>>>>>> f022e9cf4715778d08a55eed0e4e63b68f3d6f41
+
+> > > > > > > f022e9cf4715778d08a55eed0e4e63b68f3d6f41
 
 ## 🏆GitHub Trophies
+
 ![](https://github-trophies.vercel.app/?username=faysal0x1&theme=radical&no-frame=false&no-bg=false&margin-w=4)
