@@ -6,7 +6,7 @@
 
 <p style="font-size:15px;font-weight:400;"> 
 <!-- <img align="right" width="350" src="./programmer.gif" alt="Coding gif" /> -->
-<a href="https://app.daily.dev/faysal0x1"><img align="right" src="https://api.daily.dev/devcards/b1a3edf0d3204b9d81f2f502b231521f.png?r=0vg" width="300" height="350" alt="Ahmed Faysal's Dev Card"/></a>
+<a href="https://app.daily.dev/faysal0x1"><img align="right" src="devcard.svg" width="350" height="350" alt="Ahmed Faysal's Dev Card"/></a>
 
 <div style="margin-top:5rem;">
 <p>🌍  I'm based in Bangladesh</p>
