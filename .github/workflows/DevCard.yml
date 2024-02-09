@@ -20,4 +20,4 @@ jobs:
         with:
           devcard_id: ${{ secrets.DEVCARD_ID }}
       - name: Move generated file
-        run: mv / /assets
+        run: mv devcard.svg /assets
