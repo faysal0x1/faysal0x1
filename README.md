@@ -6,7 +6,8 @@
 
 <p style="font-size:15px;font-weight:400;"> 
 <!-- <img align="right" width="350" src="./programmer.gif" alt="Coding gif" /> -->
-<a href="https://app.daily.dev/faysal0x1"><img align="right" src="devcard.png" width="350" height="350" alt="Ahmed Faysal's Dev Card"/></a>
+<!-- <a href="https://app.daily.dev/faysal0x1"><img align="right" src="devcard.svg" width="350" height="350" alt="Ahmed Faysal's Dev Card"/></a> -->
+<a href="https://app.daily.dev/faysal0x1"><img src="https://api.daily.dev/devcards/v2/FE1wJu5EEhDWSz9gVrMWK.png?r=64i&type=wide" width="652" alt="Ahmed Faysal's Dev Card"/></a>
 
 <div style="margin-top:5rem;">
 <p>🌍  I'm based in Bangladesh</p>
@@ -18,8 +19,6 @@
 <p> 🤝  I'm open to collaborating on Laravel related projects</p>
 </p>
 </div>
-
-
 
 <div  style="display:flex;  margin:2px;">
 <div style="display:flex;  margin-right:5px;"><a margin="2px" href="https://www.github.com/faysal0x1" target="_blank" rel="noreferrer">
@@ -48,7 +47,6 @@
   <h3 styele="font-weight:900" bold>Profile Views :</h3>
   <img src="https://profile-counter.glitch.me/faysal0x1/count.svg?"  />
 </div>
-
 
 ## My Skill Set
 
@@ -126,8 +124,6 @@
 <img src="./wrapped_faysal0x1.png">
 </p>
 
-
-
 <h3 align="center">Activity Graph:</h3>
 
 ![Faysal's Graph](https://github-readme-activity-graph.vercel.app/graph?username=faysal0x1&custom_title=Faysal's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
@@ -169,8 +165,6 @@
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/faysal0x1/faysal0x1/main/assets/bar_graph.png)
-
-
 
 ## 🏆GitHub Trophies
 
