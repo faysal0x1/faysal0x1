@@ -168,8 +168,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 162 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 45 Public Repositories 
@@ -243,7 +241,7 @@ Jupyter Notebook         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faysal0x1/faysal0x1/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2024 23:42:30 UTC
+ Last Updated on 16/05/2024 23:51:35 UTC
 <!--END_SECTION:waka-->
 
 **Timeline**
