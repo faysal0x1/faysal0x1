@@ -203,23 +203,16 @@ Sunday                   156 commits         ██░░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-Vue.js                   2 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   31.85 % 
-PHP                      1 hr 41 mins        ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
-Blade Template           1 hr 23 mins        █████░░░░░░░░░░░░░░░░░░░░   21.06 % 
-JavaScript               59 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.87 % 
-Other                    13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 hrs 25 mins       ████████████████████████░   96.87 % 
-PhpStorm                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-ansarvdp                 4 hrs 7 mins        ████████████████░░░░░░░░░   62.37 % 
-global-route-project     2 hrs 27 mins       █████████░░░░░░░░░░░░░░░░   37.16 % 
-hospital-Management      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 hrs 37 mins       █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -239,7 +232,7 @@ Jupyter Notebook         2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faysal0x1/faysal0x1/main/assets/bar_graph.png)
 
 
- Last Updated on 25/07/2024 01:50:19 UTC
+ Last Updated on 25/07/2024 23:15:46 UTC
 <!--END_SECTION:waka-->
 
 **Timeline**
