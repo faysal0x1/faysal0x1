@@ -160,7 +160,7 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C283%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C283%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-16-blue)
 
@@ -243,7 +243,7 @@ Vue                      5 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faysal0x1/faysal0x1/main/assets/bar_graph.png)
 
 
- Last Updated on 25/09/2024 08:20:41 UTC
+ Last Updated on 25/09/2024 09:15:46 UTC
 <!--END_SECTION:waka-->
 
 **Timeline**
