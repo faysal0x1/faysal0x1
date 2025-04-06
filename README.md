@@ -170,6 +170,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 292 Contributions in the Year 2025
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 61 Public Repositories 
@@ -203,23 +205,16 @@ Sunday                   805 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-PHP                      15 hrs 23 mins      ███████████████████████░░   91.39 % 
-Blade Template           49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-Bash                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
-.env file                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
-Liquid                   7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-PhpStorm                 16 hrs 12 mins      ████████████████████████░   96.18 % 
-VS Code                  38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-orbit-pos                16 hrs 32 mins      █████████████████████████   98.23 % 
-laratrust                9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-monochrome-vibe-theme    8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  16 hrs 50 mins      █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -239,7 +234,7 @@ TypeScript               1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faysal0x1/faysal0x1/main/assets/bar_graph.png)
 
 
- Last Updated on 30/03/2025 02:04:18 UTC
+ Last Updated on 06/04/2025 02:00:48 UTC
 <!--END_SECTION:waka-->
 
 **Timeline**
