@@ -160,9 +160,11 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C366%20hrs%2021%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C156%20hrs%2022%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%202%20mins-blue?style=flat)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-4-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-224.40%20million%20lines%20of%20code-blue?style=flat)
 
@@ -183,7 +185,7 @@
 ```text
 🌞 Morning                4528 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
 🌆 Daytime                8226 commits        ████████░░░░░░░░░░░░░░░░░   30.10 % 
-🌃 Evening                8788 commits        ████████░░░░░░░░░░░░░░░░░   32.16 % 
+🌃 Evening                8790 commits        ████████░░░░░░░░░░░░░░░░░   32.17 % 
 🌙 Night                  5783 commits        █████░░░░░░░░░░░░░░░░░░░░   21.16 % 
 ```
 📅 **I'm Most Productive on Monday** 
@@ -192,9 +194,9 @@
 Monday                   4499 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
 Tuesday                  3706 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
 Wednesday                3896 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.26 % 
-Thursday                 3081 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
+Thursday                 3081 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
 Friday                   4020 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.71 % 
-Saturday                 4188 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Saturday                 4190 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
 Sunday                   3935 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
 ```
 
@@ -205,16 +207,22 @@ Sunday                   3935 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+New-Detector             0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in JavaScript** 
@@ -234,7 +242,7 @@ Go                       3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faysal0x1/faysal0x1/main/assets/bar_graph.png)
 
 
- Last Updated on 26/07/2026 03:51:17 UTC
+ Last Updated on 02/08/2026 03:51:30 UTC
 <!--END_SECTION:waka-->
 
 **Timeline**
