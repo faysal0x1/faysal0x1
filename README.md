@@ -160,19 +160,19 @@
 ###
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C156%20hrs%2022%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C156%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%202%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-95%20hrs%2024%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-224.41%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-224.42%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 471 Contributions in the Year 2026
+> 🏆 473 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -184,7 +184,7 @@
 
 ```text
 🌞 Morning                4531 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
-🌆 Daytime                8227 commits        ████████░░░░░░░░░░░░░░░░░   30.08 % 
+🌆 Daytime                8228 commits        ████████░░░░░░░░░░░░░░░░░   30.09 % 
 🌃 Evening                8805 commits        ████████░░░░░░░░░░░░░░░░░   32.20 % 
 🌙 Night                  5783 commits        █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
 ```
@@ -195,8 +195,8 @@ Monday                   4499 commits        ████░░░░░░░�
 Tuesday                  3706 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
 Wednesday                3896 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
 Thursday                 3084 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.28 % 
-Friday                   4035 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.76 % 
-Saturday                 4191 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
+Friday                   4035 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
+Saturday                 4192 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.33 % 
 Sunday                   3935 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
 ```
 
@@ -207,22 +207,36 @@ Sunday                   3935 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Dhaka
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Markdown                 21 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Antigravity IDE          21 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+portfolio                21 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  21 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 21 mins (100.0%)
+
+✍️ 0 lines written by AI, 0 lines written by hand (0% AI-written)
+
+🔤 0 Input Tokens, 0 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 7 AI Prompts
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0% of written lines came from AI
+📝 Concise Prompter — average 126 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -242,7 +256,7 @@ Go                       3 repos             ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faysal0x1/faysal0x1/main/assets/bar_graph.png)
 
 
- Last Updated on 09/08/2026 02:25:26 UTC
+ Last Updated on 16/08/2026 02:00:59 UTC
 <!--END_SECTION:waka-->
 
 **Timeline**
