@@ -164,15 +164,15 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-96%20hrs%2048%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-208.06%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-127.34%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 708 Contributions in the Year 2026
+> 🏆 752 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -183,21 +183,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3873 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
-🌆 Daytime                6474 commits        ███████░░░░░░░░░░░░░░░░░░   29.52 % 
-🌃 Evening                6896 commits        ████████░░░░░░░░░░░░░░░░░   31.45 % 
-🌙 Night                  4687 commits        █████░░░░░░░░░░░░░░░░░░░░   21.37 % 
+🌞 Morning                3159 commits        █████░░░░░░░░░░░░░░░░░░░░   18.62 % 
+🌆 Daytime                4793 commits        ███████░░░░░░░░░░░░░░░░░░   28.25 % 
+🌃 Evening                5340 commits        ████████░░░░░░░░░░░░░░░░░   31.47 % 
+🌙 Night                  3674 commits        █████░░░░░░░░░░░░░░░░░░░░   21.66 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   3556 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-Tuesday                  2947 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
-Wednesday                3234 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Thursday                 2447 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-Friday                   3344 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Saturday                 3471 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.83 % 
-Sunday                   2931 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Monday                   3102 commits        █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Tuesday                  2068 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.19 % 
+Wednesday                2268 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
+Thursday                 1876 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Friday                   2768 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Saturday                 2726 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Sunday                   2158 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
 ```
 
 
@@ -228,11 +228,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               81 repos            █████████░░░░░░░░░░░░░░░░   36.49 % 
-PHP                      56 repos            ██████░░░░░░░░░░░░░░░░░░░   25.23 % 
-HTML                     22 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.91 % 
-Vue                      9 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-TypeScript               8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.60 % 
+JavaScript               81 repos            █████████░░░░░░░░░░░░░░░░   35.84 % 
+PHP                      57 repos            ██████░░░░░░░░░░░░░░░░░░░   25.22 % 
+HTML                     22 repos            ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+Vue                      12 repos            █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+TypeScript               8 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 
 
@@ -242,7 +242,7 @@ TypeScript               8 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/faysal0x1/faysal0x1/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 05:37:09 UTC
+ Last Updated on 11/10/2026 05:26:25 UTC
 <!--END_SECTION:waka-->
 
 **Timeline**
